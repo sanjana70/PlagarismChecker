@@ -1,0 +1,2 @@
+# PlagarismChecker
+Checks for plagarism 
